@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="LGPL-v3"
+
+[[mods]]
+modId="enhanceddodge"
+version="${file.jarVersion}"
+displayName="EnhancedDodge"
+authors="Team Potato"
+description='''
+
+'''
